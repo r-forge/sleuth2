@@ -1,7 +1,7 @@
 Package: Sleuth2
 Title: Data Sets from Ramsey and Schafer's "Statistical Sleuth (2nd Ed)"
-Version: 2.0-5
-Date: 2019-01-24
+Version: 2.0-6
+Date: 2024-01-23
 Author:  Original by F.L. Ramsey and D.W. Schafer;
     modifications by Daniel W. Schafer, Jeannie Sifneos and Berwin
     A. Turlach; vignettes contributed by Nicholas Horton, Kate Aloisio
@@ -15,4 +15,4 @@ Depends: R (>= 3.5.0)
 Suggests: lattice, knitr, MASS, agricolae, car, gmodels, leaps, mosaic
 VignetteBuilder: knitr
 License: GPL (>= 2)
-URL: http://r-forge.r-project.org/projects/sleuth2/
+URL: https://r-forge.r-project.org/projects/sleuth2/
